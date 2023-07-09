@@ -1,2 +1,2 @@
 # zadachi_c
-Tekstot od zadachata se naogja vo komentar na samata zadacha
+Tekstot od zadachite se naogja vo komentar na samata zadacha
